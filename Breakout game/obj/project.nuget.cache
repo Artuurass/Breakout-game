@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ygTFQLyET2I1XNMTXQouRI4BL6alVL3AhIgI/wd6qG3jpXQGZYnozrotQjyrVZcUGRuYIc6oy+cEEcmI6pYYFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aliona.000\\Desktop\\Artūro darbai\\NKKM\\Breakout game\\Breakout game\\Breakout game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aliona.000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
